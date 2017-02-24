@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Ypods2'
-  s.version          = '1'
+  s.version          = '0.1.0'
   s.summary          = 'This is new version of Ypods2.'
 
 # This description is used to generate tags and improve search results.
