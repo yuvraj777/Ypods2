@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - Ypods2 (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - Ypods2 (from `../`)
+
+EXTERNAL SOURCES:
+  Ypods2:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  Ypods2: eb0fe9e226bac8df0f1ecc374fa78dca081787f6
+
+PODFILE CHECKSUM: f5174ffe5db18c4c368669b725a01d33898932ec
+
+COCOAPODS: 1.2.0

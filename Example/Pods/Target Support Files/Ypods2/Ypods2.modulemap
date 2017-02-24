@@ -1,0 +1,6 @@
+framework module Ypods2 {
+  umbrella header "Ypods2-umbrella.h"
+
+  export *
+  module * { export * }
+}
